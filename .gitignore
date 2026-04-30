@@ -8,6 +8,7 @@ __pycache__/
 .venv/
 venv/
 env/
+data/
 
 # PyTorch / models
 *.pt
@@ -19,6 +20,7 @@ checkpoints/
 
 # Logs
 *.log
+
 
 # OS files
 .DS_Store
